@@ -1,0 +1,27 @@
+.nav-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    border-bottom: 1px solid blue;
+}
+
+.nav-links a {
+    display: block;
+    border-top: 1px solid blue;
+    height: 30px;
+    line-height: 30px;
+    text-decoration: none;
+    font-family: sans-serif;
+    background-color: lavender;
+
+}
+
+.nav-links li {
+    display: inline-block;
+
+}
+
+.link:hover {
+    color: blue;
+}
