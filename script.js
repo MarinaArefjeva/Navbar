@@ -1,4 +1,3 @@
-// Get references to the menu items
 const homeLink = document.getElementById("home-link");
 const galleryLink = document.getElementById("gallery-link");
 const aboutLink = document.getElementById("about-link");
